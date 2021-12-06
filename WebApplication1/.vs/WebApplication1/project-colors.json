@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cec936d6-bd21-404a-8b6a-419ae6db6f78": {
+      "ProjectGuid": "cec936d6-bd21-404a-8b6a-419ae6db6f78",
+      "DisplayName": "WebApplication1",
+      "ColorIndex": 0
+    },
+    "d77d500c-471e-435e-a78e-69565f2458fa": {
+      "ProjectGuid": "d77d500c-471e-435e-a78e-69565f2458fa",
+      "DisplayName": "WebApplication1.Test",
+      "ColorIndex": 1
+    },
+    "eb7676fa-e0c4-418f-9162-df3a8fc9d051": {
+      "ProjectGuid": "eb7676fa-e0c4-418f-9162-df3a8fc9d051",
+      "DisplayName": "Blog.Library",
+      "ColorIndex": 2
+    },
+    "27c91c8c-d681-45b3-8669-80c3908d18d9": {
+      "ProjectGuid": "27c91c8c-d681-45b3-8669-80c3908d18d9",
+      "DisplayName": "Blog.Library.Test",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
